@@ -1,0 +1,15 @@
+name: blogs
+version: 0.1.0
+
+authors:
+  - sebi <sebastian@skupos.com>
+
+license: MIT
+
+dependencies:
+  spec-kemal:
+    github: sdogruyol/spec-kemal
+    branch: master
+  kemal:
+    github: sdogruyol/kemal
+    branch: master
