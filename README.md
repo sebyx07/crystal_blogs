@@ -1,4 +1,5 @@
 # blogs
+[![Build Status](https://travis-ci.org/sebyx07/crystal_blogs.svg?branch=master)](https://travis-ci.org/sebyx07/crystal_blogs)
 
 TODO: Write a description here
 
