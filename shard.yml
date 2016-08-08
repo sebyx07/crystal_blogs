@@ -7,9 +7,6 @@ authors:
 license: MIT
 
 dependencies:
-  spec-kemal:
-    github: sdogruyol/spec-kemal
-    branch: master
   kemal:
     github: sdogruyol/kemal
     branch: master
